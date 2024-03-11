@@ -1,2 +1,3 @@
 # gpool
-A thread-safe object pool for Go.
+
+A Thread-safe, high-performance, explicit object pool for Go.
